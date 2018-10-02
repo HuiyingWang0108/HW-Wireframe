@@ -24,6 +24,9 @@
     color: #333;
     background: #ebebeb;
   }
+  header{
+    margin-top: 10px;
+  }
   div{
       overflow: auto;
       width: 960px;
